@@ -1,6 +1,6 @@
 # H&R Block Premium Edition
 
-<img src="https://images.seeklogo.com/logo-png/49/1/hr-block-logo-png_seeklogo-499329.png" width="200" alt="App icon" align="left"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_B-qba2dPfMF92H6vsqLr4xkQKCuF1YQE-A&s" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>H&R Block for macOS</h3>
